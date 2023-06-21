@@ -1,20 +1,20 @@
 {
-  "intro": "Hej",
+  "intro": "Hey",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
+    "src": "../../images/anups_photo.jpeg",
     "alt": "My Photo"
   },
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "I'm Anup Sharma",
   "subtitle": {
-    "prefix": "I do all the setup ",
+    "prefix": "Building the bridge between hardware and software ",
     "highlight": "for you",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "I am an engineer with expertise in Electronics, Embedded Systems, and Linux Kernel Development. My current focus revolves around enhancing the performance tool for Linux, specifically the Perf subsystem.",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": false

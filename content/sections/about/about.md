@@ -1,14 +1,6 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/aboutme.jpg"
+imageAlt: "About Me"
 ---
+Hi there! My name is Anup Sharma, I loves to build software solutions that power systems and devices. My passion for electronics and computers started at a very young age. Soon after I got my first computer, I started writing low-level codes, experimenting with microcontrollers and sensors which eventually turned my iterations into projects. When I began learning deep programming, I realized that a substantial portion of it was based on open source technology. This finding caught my interestin the open-source world and prompted me to delve deeper into its collaborative and community-driven approach. This was the beginning of in-depth learning for me with ‘the Linux OS/kernel’. 
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
-
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
-
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
-
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
